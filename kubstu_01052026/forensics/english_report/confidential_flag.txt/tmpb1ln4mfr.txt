@@ -1,0 +1,19 @@
+KubSTU{F4k3_Fl4g_D3c3pt10n_Pr0t0c0l_2025_S3cur1ty_Br34ch_Unauthorized_Access_D3t3ct3d}
+
+[SECURITY ALERT] ACCESS VIOLATION DETECTED
+[STATUS] SYSTEM COMPROMISE CONFIRMED
+[MESSAGE] YOU HAVE BEEN HACKED ;)
+
+[SECURITY NOTICE]
+This file was accessed without proper authorization.
+Unauthorized distribution is strictly prohibited.
+All accesses are being logged and monitored.
+
+[FILE INFO]
+Name: confidential_flag.txt
+Created: 2025-01-23 14:30:00 UTC
+Modified: 2025-01-23 14:30:00 UTC
+Size: 386 bytes
+Checksum: c3c83e1de32ba5424780b1cbff05f72e
+
+[END OF FILE]

@@ -1,0 +1,505 @@
+Mar 26 09:32:01 victim-db sshd[81790]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:43:29 victim-db sudo: testuser : TTY=pts/0 ; PWD=/home/testuser ; testuser=root ; COMMAND=/bin/bash
+Mar 26 09:10:14 victim-db sshd[68992]: Accepted password for user from 172.16.0.252 port 1096 ssh2
+Mar 26 09:37:22 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=root uid=1347 euid=0 tty=pts/0 ruser=root rhost=  user=root
+Mar 26 09:22:36 victim-db sshd[26226]: pam_unix(sshd:session): session closed for user root
+Mar 26 09:46:47 victim-db sshd[12520]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:16:50 victim-db sshd[12879]: pam_unix(sshd:session): session closed for user admin
+Mar 26 09:18:02 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=root uid=6438 euid=0 tty=pts/0 ruser=root rhost=  user=root
+Mar 26 10:16:36 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=dbadmin uid=1001 euid=0 tty=pts/0 ruser=dbadmin rhost=  user=root
+Mar 26 09:07:08 victim-db sshd[11825]: Invalid user root from 203.0.113.97 port 30968
+Mar 26 09:04:14 victim-db sshd[21424]: pam_unix(sshd:session): session closed for user admin
+Mar 26 09:38:54 victim-db sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; ubuntu=root ; COMMAND=/bin/bash
+Mar 26 09:33:44 victim-db sshd[87621]: Invalid user admin from 10.0.0.113 port 10060
+Mar 26 09:13:27 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=guest uid=1908 euid=0 tty=pts/0 ruser=guest rhost=  user=root
+Mar 26 09:28:32 victim-db sshd[97421]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:58:24 victim-db sshd[27152]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:27:00 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=root uid=1219 euid=0 tty=pts/0 ruser=root rhost=  user=root
+Mar 26 09:24:22 victim-db sshd[86208]: Accepted password for user from 10.0.0.38 port 10995 ssh2
+Mar 26 09:06:02 victim-db sshd[81822]: Failed password for invalid user ubuntu from 192.168.1.115 port 7519 ssh2
+Mar 26 09:58:56 victim-db sshd[3202]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:28:52 victim-db sudo: guest : TTY=pts/0 ; PWD=/home/guest ; guest=root ; COMMAND=/bin/bash
+Mar 26 09:00:41 victim-db sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; ubuntu=root ; COMMAND=/bin/bash
+Mar 26 09:12:51 victim-db sshd[59804]: Accepted password for user from 172.16.0.243 port 17820 ssh2
+Mar 26 09:25:20 victim-db sshd[35192]: pam_unix(sshd:session): session closed for user admin
+Mar 26 09:40:26 victim-db sudo: admin : TTY=pts/0 ; PWD=/home/admin ; admin=root ; COMMAND=/bin/bash
+Mar 26 09:46:26 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=root uid=3506 euid=0 tty=pts/0 ruser=root rhost=  user=root
+Mar 26 09:43:42 victim-db sshd[71581]: Failed password for invalid user ubuntu from 203.0.113.232 port 38719 ssh2
+Mar 26 09:41:49 victim-db sudo: guest : TTY=pts/0 ; PWD=/home/guest ; guest=root ; COMMAND=/bin/bash
+Mar 26 09:19:27 victim-db sudo: root : TTY=pts/0 ; PWD=/home/root ; root=root ; COMMAND=/bin/bash
+Mar 26 09:26:02 victim-db sshd[10388]: Failed password for invalid user ubuntu from 203.0.113.201 port 53073 ssh2
+Mar 26 09:26:24 victim-db sudo: admin : TTY=pts/0 ; PWD=/home/admin ; admin=root ; COMMAND=/bin/bash
+Mar 26 09:36:18 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=admin uid=4133 euid=0 tty=pts/0 ruser=admin rhost=  user=root
+Mar 26 09:46:58 victim-db sshd[49772]: pam_unix(sshd:session): session opened for user testuser by (uid=0)
+Mar 26 09:34:06 victim-db sshd[61573]: pam_unix(sshd:session): session closed for user guest
+Mar 26 10:17:00 victim-db sshd[5681]: pam_unix(sshd:session): session closed for user dbadmin
+Mar 26 09:03:58 victim-db sshd[72236]: Invalid user ubuntu from 172.16.0.150 port 62962
+Mar 26 09:08:14 victim-db sshd[64762]: Invalid user ubuntu from 203.0.113.115 port 18008
+Mar 26 09:23:44 victim-db sshd[87209]: pam_unix(sshd:session): session opened for user guest by (uid=0)
+Mar 26 09:23:30 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=ubuntu uid=7294 euid=0 tty=pts/0 ruser=ubuntu rhost=  user=root
+Mar 26 09:04:38 victim-db sshd[43723]: Failed password for invalid user root from 10.0.0.191 port 21616 ssh2
+Mar 26 09:32:56 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=testuser uid=3485 euid=0 tty=pts/0 ruser=testuser rhost=  user=root
+Mar 26 09:25:36 victim-db sshd[83095]: Accepted password for user from 10.0.0.57 port 27979 ssh2
+Mar 26 09:59:54 victim-db sshd[43358]: pam_unix(sshd:session): session closed for user guest
+Mar 26 09:45:52 victim-db sshd[75683]: Failed password for invalid user testuser from 192.168.1.102 port 15528 ssh2
+Mar 26 09:17:52 victim-db sudo: root : TTY=pts/0 ; PWD=/home/root ; root=root ; COMMAND=/bin/bash
+Mar 26 09:50:50 victim-db sudo: guest : TTY=pts/0 ; PWD=/home/guest ; guest=root ; COMMAND=/bin/bash
+Mar 26 09:11:33 victim-db sudo: admin : TTY=pts/0 ; PWD=/home/admin ; admin=root ; COMMAND=/bin/bash
+Mar 26 09:42:27 victim-db sshd[43107]: Invalid user ubuntu from 192.168.1.74 port 57755
+Mar 26 09:32:38 victim-db sshd[81017]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:53:56 victim-db sshd[5708]: Failed password for invalid user ubuntu from 203.0.113.6 port 15878 ssh2
+Mar 26 09:49:56 victim-db sshd[93144]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Mar 26 09:05:13 victim-db sshd[15030]: Accepted password for user from 192.168.1.48 port 34703 ssh2
+Mar 26 09:44:53 victim-db sshd[43682]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:37:09 victim-db sshd[14333]: pam_unix(sshd:session): session opened for user guest by (uid=0)
+Mar 26 09:37:04 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=testuser uid=6398 euid=0 tty=pts/0 ruser=testuser rhost=  user=root
+Mar 26 09:51:23 victim-db sudo: admin : TTY=pts/0 ; PWD=/home/admin ; admin=root ; COMMAND=/bin/bash
+Mar 26 09:51:08 victim-db sshd[77671]: Invalid user admin from 172.16.0.204 port 2658
+Mar 26 09:14:18 victim-db sshd[89026]: Failed password for invalid user root from 10.0.0.88 port 56778 ssh2
+Mar 26 09:02:13 victim-db sshd[54475]: pam_unix(sshd:session): session closed for user testuser
+Mar 26 09:19:47 victim-db sshd[1973]: Invalid user admin from 203.0.113.166 port 44567
+Mar 26 09:32:53 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=ubuntu uid=5148 euid=0 tty=pts/0 ruser=ubuntu rhost=  user=root
+Mar 26 09:59:14 victim-db sshd[45033]: Failed password for invalid user root from 10.0.0.171 port 36681 ssh2
+Mar 26 09:25:23 victim-db sshd[89155]: pam_unix(sshd:session): session opened for user guest by (uid=0)
+Mar 26 09:28:04 victim-db sshd[8403]: Accepted password for user from 172.16.0.82 port 5416 ssh2
+Mar 26 09:45:56 victim-db sudo: guest : TTY=pts/0 ; PWD=/home/guest ; guest=root ; COMMAND=/bin/bash
+Mar 26 09:20:45 victim-db sudo: admin : TTY=pts/0 ; PWD=/home/admin ; admin=root ; COMMAND=/bin/bash
+Mar 26 09:50:59 victim-db sshd[51579]: Accepted password for user from 203.0.113.214 port 10860 ssh2
+Mar 26 09:43:57 victim-db sshd[82248]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:42:36 victim-db sudo: guest : TTY=pts/0 ; PWD=/home/guest ; guest=root ; COMMAND=/bin/bash
+Mar 26 09:10:05 victim-db sudo: testuser : TTY=pts/0 ; PWD=/home/testuser ; testuser=root ; COMMAND=/bin/bash
+Mar 26 09:53:32 victim-db sudo: guest : TTY=pts/0 ; PWD=/home/guest ; guest=root ; COMMAND=/bin/bash
+Mar 26 09:02:25 victim-db sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; ubuntu=root ; COMMAND=/bin/bash
+Mar 26 09:58:14 victim-db sshd[10839]: Failed password for invalid user root from 172.16.0.93 port 23932 ssh2
+Mar 26 09:36:37 victim-db sshd[42082]: Invalid user admin from 203.0.113.68 port 45216
+Mar 26 09:27:23 victim-db sshd[7926]: Failed password for invalid user ubuntu from 172.16.0.176 port 9103 ssh2
+Mar 26 09:24:44 victim-db sshd[78212]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:56:41 victim-db sshd[21132]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:07:45 victim-db sshd[88689]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Mar 26 09:55:43 victim-db sshd[12773]: Accepted password for user from 172.16.0.66 port 65345 ssh2
+Mar 26 09:18:22 victim-db sshd[50839]: Invalid user ubuntu from 10.0.0.144 port 24199
+Mar 26 09:50:14 victim-db sudo: guest : TTY=pts/0 ; PWD=/home/guest ; guest=root ; COMMAND=/bin/bash
+Mar 26 09:45:24 victim-db sshd[83665]: Accepted password for user from 192.168.1.78 port 47972 ssh2
+Mar 26 09:19:48 victim-db sshd[5060]: pam_unix(sshd:session): session closed for user testuser
+Mar 26 09:35:05 victim-db sshd[83082]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:55:32 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=admin uid=1844 euid=0 tty=pts/0 ruser=admin rhost=  user=root
+Mar 26 09:13:00 victim-db sshd[11228]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:02:42 victim-db sshd[21789]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Mar 26 09:22:21 victim-db sshd[12281]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:46:19 victim-db sshd[80170]: Accepted password for user from 10.0.0.23 port 48569 ssh2
+Mar 26 09:56:40 victim-db sshd[98793]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:42:52 victim-db sshd[1765]: Failed password for invalid user admin from 172.16.0.63 port 47170 ssh2
+Mar 26 09:05:25 victim-db sshd[24063]: Invalid user guest from 172.16.0.129 port 40044
+Mar 26 09:38:37 victim-db sshd[87148]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Mar 26 09:31:23 victim-db sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; ubuntu=root ; COMMAND=/bin/bash
+Mar 26 09:55:25 victim-db sshd[46630]: pam_unix(sshd:session): session closed for user ubuntu
+Mar 26 09:21:55 victim-db sshd[3649]: Accepted password for user from 192.168.1.111 port 17417 ssh2
+Mar 26 09:52:33 victim-db sshd[69253]: Accepted password for user from 172.16.0.228 port 35573 ssh2
+Mar 26 09:38:30 victim-db sshd[12448]: Accepted password for user from 192.168.1.83 port 52147 ssh2
+Mar 26 09:21:06 victim-db sudo: admin : TTY=pts/0 ; PWD=/home/admin ; admin=root ; COMMAND=/bin/bash
+Mar 26 09:26:58 victim-db sshd[35469]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:57:00 victim-db sshd[19037]: pam_unix(sshd:session): session closed for user guest
+Mar 26 09:48:01 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=testuser uid=6059 euid=0 tty=pts/0 ruser=testuser rhost=  user=root
+Mar 26 09:33:35 victim-db sshd[81179]: Accepted password for user from 203.0.113.167 port 22322 ssh2
+Mar 26 09:20:40 victim-db sshd[36912]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:32:57 victim-db sshd[62661]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Mar 26 09:59:54 victim-db sshd[69265]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:27:07 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=testuser uid=8482 euid=0 tty=pts/0 ruser=testuser rhost=  user=root
+Mar 26 09:04:34 victim-db sshd[85282]: pam_unix(sshd:session): session closed for user root
+Mar 26 09:08:20 victim-db sshd[40820]: Invalid user ubuntu from 192.168.1.178 port 34477
+Mar 26 09:46:01 victim-db sudo: guest : TTY=pts/0 ; PWD=/home/guest ; guest=root ; COMMAND=/bin/bash
+Mar 26 09:49:27 victim-db sshd[91295]: Failed password for invalid user guest from 10.0.0.119 port 58715 ssh2
+Mar 26 09:11:22 victim-db sshd[86075]: Accepted password for user from 172.16.0.232 port 10060 ssh2
+Mar 26 09:02:52 victim-db sudo: root : TTY=pts/0 ; PWD=/home/root ; root=root ; COMMAND=/bin/bash
+Mar 26 09:24:07 victim-db sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; ubuntu=root ; COMMAND=/bin/bash
+Mar 26 09:13:24 victim-db sshd[63001]: Failed password for invalid user ubuntu from 172.16.0.36 port 39734 ssh2
+Mar 26 09:23:30 victim-db sshd[19299]: Invalid user root from 10.0.0.80 port 32799
+Mar 26 09:01:29 victim-db sshd[4469]: Invalid user admin from 172.16.0.51 port 16784
+Mar 26 09:49:53 victim-db sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; ubuntu=root ; COMMAND=/bin/bash
+Mar 26 09:26:54 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=admin uid=1153 euid=0 tty=pts/0 ruser=admin rhost=  user=root
+Mar 26 09:04:27 victim-db sudo: guest : TTY=pts/0 ; PWD=/home/guest ; guest=root ; COMMAND=/bin/bash
+Mar 26 09:58:11 victim-db sshd[12427]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Mar 26 09:47:25 victim-db sshd[49803]: pam_unix(sshd:session): session closed for user admin
+Mar 26 09:00:32 victim-db sshd[8344]: Invalid user testuser from 10.0.0.63 port 43127
+Mar 26 09:27:55 victim-db sshd[16294]: pam_unix(sshd:session): session opened for user guest by (uid=0)
+Mar 26 09:13:32 victim-db sudo: guest : TTY=pts/0 ; PWD=/home/guest ; guest=root ; COMMAND=/bin/bash
+Mar 26 09:42:24 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=root uid=3751 euid=0 tty=pts/0 ruser=root rhost=  user=root
+Mar 26 09:18:38 victim-db sudo: root : TTY=pts/0 ; PWD=/home/root ; root=root ; COMMAND=/bin/bash
+Mar 26 09:40:20 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=ubuntu uid=5731 euid=0 tty=pts/0 ruser=ubuntu rhost=  user=root
+Mar 26 09:09:30 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=admin uid=7399 euid=0 tty=pts/0 ruser=admin rhost=  user=root
+Mar 26 09:21:44 victim-db sshd[39363]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:30:26 victim-db sudo: guest : TTY=pts/0 ; PWD=/home/guest ; guest=root ; COMMAND=/bin/bash
+Mar 26 09:52:22 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=root uid=6410 euid=0 tty=pts/0 ruser=root rhost=  user=root
+Mar 26 09:08:33 victim-db sshd[43171]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:24:57 victim-db sshd[44423]: Failed password for invalid user guest from 192.168.1.223 port 58815 ssh2
+Mar 26 09:05:29 victim-db sshd[19006]: Accepted password for user from 172.16.0.5 port 50224 ssh2
+Mar 26 09:07:53 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=root uid=6519 euid=0 tty=pts/0 ruser=root rhost=  user=root
+Mar 26 09:19:33 victim-db sudo: root : TTY=pts/0 ; PWD=/home/root ; root=root ; COMMAND=/bin/bash
+Mar 26 09:22:58 victim-db sshd[57849]: Invalid user ubuntu from 203.0.113.104 port 14428
+Mar 26 09:49:10 victim-db sshd[29320]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:49:51 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=admin uid=2952 euid=0 tty=pts/0 ruser=admin rhost=  user=root
+Mar 26 09:33:39 victim-db sshd[81492]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Mar 26 09:56:47 victim-db sshd[70009]: Failed password for invalid user admin from 203.0.113.72 port 46104 ssh2
+Mar 26 09:00:00 victim-db sshd[18422]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:55:54 victim-db sshd[24220]: Invalid user testuser from 192.168.1.169 port 21037
+Mar 26 09:15:16 victim-db sshd[6166]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:03:43 victim-db sshd[7866]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:44:09 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=admin uid=1135 euid=0 tty=pts/0 ruser=admin rhost=  user=root
+Mar 26 09:28:29 victim-db sshd[32869]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:18:43 victim-db sshd[80221]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:01:39 victim-db sshd[44797]: Accepted password for user from 10.0.0.185 port 4957 ssh2
+Mar 26 09:43:02 victim-db sshd[9822]: Invalid user admin from 203.0.113.114 port 6376
+Mar 26 09:07:22 victim-db sshd[36035]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:07:24 victim-db sshd[35337]: Invalid user guest from 172.16.0.108 port 62646
+Mar 26 09:31:46 victim-db sshd[32976]: Accepted password for user from 10.0.0.253 port 58807 ssh2
+Mar 26 09:33:19 victim-db sshd[43096]: pam_unix(sshd:session): session closed for user admin
+Mar 26 09:32:43 victim-db sshd[50520]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:03:17 victim-db sudo: admin : TTY=pts/0 ; PWD=/home/admin ; admin=root ; COMMAND=/bin/bash
+Mar 26 09:14:55 victim-db sshd[63878]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Mar 26 09:47:02 victim-db sshd[24804]: Invalid user ubuntu from 192.168.1.108 port 38055
+Mar 26 09:53:27 victim-db sshd[10609]: Failed password for invalid user guest from 172.16.0.119 port 18751 ssh2
+Mar 26 09:09:07 victim-db sshd[41564]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Mar 26 09:54:08 victim-db sshd[92928]: pam_unix(sshd:session): session opened for user testuser by (uid=0)
+Mar 26 09:01:57 victim-db sshd[61580]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:01:49 victim-db sshd[50895]: pam_unix(sshd:session): session closed for user ubuntu
+Mar 26 09:19:15 victim-db sshd[65784]: pam_unix(sshd:session): session opened for user guest by (uid=0)
+Mar 26 09:54:13 victim-db sshd[31982]: pam_unix(sshd:session): session opened for user guest by (uid=0)
+Mar 26 09:21:51 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=admin uid=6041 euid=0 tty=pts/0 ruser=admin rhost=  user=root
+Mar 26 09:36:10 victim-db sshd[40854]: Failed password for invalid user root from 192.168.1.146 port 47586 ssh2
+Mar 26 09:19:25 victim-db sshd[49773]: pam_unix(sshd:session): session closed for user admin
+Mar 26 09:39:34 victim-db sshd[44231]: Accepted password for user from 10.0.0.96 port 15937 ssh2
+Mar 26 09:02:43 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=admin uid=7405 euid=0 tty=pts/0 ruser=admin rhost=  user=root
+Mar 26 09:35:10 victim-db sshd[14118]: Invalid user guest from 10.0.0.161 port 55463
+Mar 26 09:27:28 victim-db sshd[63849]: Invalid user guest from 10.0.0.117 port 56451
+Mar 26 09:01:21 victim-db sshd[65963]: pam_unix(sshd:session): session closed for user guest
+Mar 26 09:16:09 victim-db sshd[73142]: Invalid user root from 203.0.113.141 port 56272
+Mar 26 09:49:00 victim-db sshd[17721]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Mar 26 09:24:43 victim-db sshd[75776]: Invalid user guest from 172.16.0.8 port 8540
+Mar 26 09:12:42 victim-db sudo: root : TTY=pts/0 ; PWD=/home/root ; root=root ; COMMAND=/bin/bash
+Mar 26 09:04:34 victim-db sshd[18074]: Invalid user guest from 10.0.0.198 port 11222
+Mar 26 09:30:15 victim-db sshd[20516]: Invalid user guest from 10.0.0.93 port 55827
+Mar 26 09:12:02 victim-db sshd[54419]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Mar 26 09:21:52 victim-db sshd[44317]: pam_unix(sshd:session): session closed for user ubuntu
+Mar 26 09:18:37 victim-db sshd[75144]: pam_unix(sshd:session): session closed for user testuser
+Mar 26 09:38:48 victim-db sshd[23310]: Accepted password for user from 192.168.1.141 port 30628 ssh2
+Mar 26 09:53:22 victim-db sshd[34316]: pam_unix(sshd:session): session closed for user root
+Mar 26 09:34:15 victim-db sshd[51227]: pam_unix(sshd:session): session opened for user testuser by (uid=0)
+Mar 26 09:10:50 victim-db sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; ubuntu=root ; COMMAND=/bin/bash
+Mar 26 09:15:30 victim-db sshd[92826]: Invalid user admin from 203.0.113.113 port 60663
+Mar 26 09:52:05 victim-db sshd[85343]: Server listening on 0.0.0.0 port 22.
+Mar 26 10:16:31 victim-db sshd[5681]: pam_unix(sshd:session): session opened for user dbadmin by (uid=0)
+Mar 26 09:11:41 victim-db sshd[29502]: Accepted password for user from 192.168.1.222 port 53156 ssh2
+Mar 26 09:46:22 victim-db sshd[52837]: Failed password for invalid user root from 203.0.113.101 port 29920 ssh2
+Mar 26 09:25:13 victim-db sshd[30486]: pam_unix(sshd:session): session closed for user admin
+Mar 26 09:49:35 victim-db sshd[59707]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:30:01 victim-db sshd[37015]: Invalid user testuser from 10.0.0.53 port 47605
+Mar 26 10:16:35 victim-db sudo: dbadmin : TTY=pts/0 ; PWD=/home/dbadmin ; USER=root ; COMMAND=/bin/bash
+Mar 26 09:27:10 victim-db sshd[95213]: Invalid user root from 172.16.0.5 port 26204
+Mar 26 09:27:38 victim-db sshd[28760]: Accepted password for user from 203.0.113.248 port 42020 ssh2
+Mar 26 09:31:35 victim-db sshd[45747]: Accepted password for user from 203.0.113.18 port 56924 ssh2
+Mar 26 09:10:26 victim-db sshd[35344]: Invalid user root from 10.0.0.158 port 7571
+Mar 26 09:58:34 victim-db sudo: guest : TTY=pts/0 ; PWD=/home/guest ; guest=root ; COMMAND=/bin/bash
+Mar 26 09:07:17 victim-db sshd[37730]: Failed password for invalid user root from 192.168.1.85 port 3746 ssh2
+Mar 26 09:02:05 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=guest uid=6913 euid=0 tty=pts/0 ruser=guest rhost=  user=root
+Mar 26 09:40:13 victim-db sshd[88173]: Accepted password for user from 172.16.0.151 port 29727 ssh2
+Mar 26 09:48:57 victim-db sshd[61151]: pam_unix(sshd:session): session opened for user testuser by (uid=0)
+Mar 26 09:11:08 victim-db sshd[56665]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:44:42 victim-db sshd[73309]: pam_unix(sshd:session): session closed for user admin
+Mar 26 09:53:30 victim-db sshd[99599]: Failed password for invalid user admin from 192.168.1.140 port 39638 ssh2
+Mar 26 09:05:53 victim-db sshd[49023]: Invalid user ubuntu from 203.0.113.124 port 57796
+Mar 26 09:08:17 victim-db sshd[80892]: pam_unix(sshd:session): session opened for user testuser by (uid=0)
+Mar 26 09:27:23 victim-db sshd[69638]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:34:36 victim-db sshd[87138]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:29:35 victim-db sshd[22690]: Accepted password for user from 203.0.113.128 port 48690 ssh2
+Mar 26 09:39:57 victim-db sshd[4728]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Mar 26 09:44:36 victim-db sshd[27237]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Mar 26 09:45:32 victim-db sshd[41249]: Failed password for invalid user guest from 203.0.113.142 port 35205 ssh2
+Mar 26 09:53:05 victim-db sshd[92476]: Invalid user admin from 10.0.0.125 port 40253
+Mar 26 09:40:14 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=guest uid=1207 euid=0 tty=pts/0 ruser=guest rhost=  user=root
+Mar 26 09:30:41 victim-db sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; ubuntu=root ; COMMAND=/bin/bash
+Mar 26 09:36:26 victim-db sshd[85831]: Accepted password for user from 172.16.0.148 port 12013 ssh2
+Mar 26 09:54:03 victim-db sshd[88572]: Invalid user testuser from 10.0.0.91 port 21701
+Mar 26 09:11:38 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=guest uid=8511 euid=0 tty=pts/0 ruser=guest rhost=  user=root
+Mar 26 09:40:31 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=root uid=2221 euid=0 tty=pts/0 ruser=root rhost=  user=root
+Mar 26 09:54:28 victim-db sshd[99210]: Failed password for invalid user guest from 172.16.0.60 port 6147 ssh2
+Mar 26 09:36:14 victim-db sshd[77106]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:49:50 victim-db sshd[53404]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:50:20 victim-db sshd[92509]: Failed password for invalid user testuser from 10.0.0.61 port 57169 ssh2
+Mar 26 09:08:30 victim-db sshd[38201]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Mar 26 09:52:26 victim-db sshd[36828]: Accepted password for user from 172.16.0.171 port 20540 ssh2
+Mar 26 09:20:47 victim-db sshd[94647]: pam_unix(sshd:session): session closed for user ubuntu
+Mar 26 09:47:50 victim-db sshd[17350]: Invalid user admin from 10.0.0.86 port 20036
+Mar 26 09:44:25 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=testuser uid=6475 euid=0 tty=pts/0 ruser=testuser rhost=  user=root
+Mar 26 09:04:32 victim-db sshd[2346]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Mar 26 09:32:19 victim-db sshd[60349]: Invalid user testuser from 172.16.0.45 port 40837
+Mar 26 09:05:07 victim-db sshd[16579]: Invalid user testuser from 172.16.0.68 port 3746
+Mar 26 09:30:06 victim-db sshd[58394]: pam_unix(sshd:session): session opened for user testuser by (uid=0)
+Mar 26 09:57:54 victim-db sudo: root : TTY=pts/0 ; PWD=/home/root ; root=root ; COMMAND=/bin/bash
+Mar 26 09:59:53 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=ubuntu uid=3936 euid=0 tty=pts/0 ruser=ubuntu rhost=  user=root
+Mar 26 09:05:40 victim-db sudo: root : TTY=pts/0 ; PWD=/home/root ; root=root ; COMMAND=/bin/bash
+Mar 26 09:13:06 victim-db sshd[47222]: Accepted password for user from 192.168.1.237 port 58767 ssh2
+Mar 26 09:01:20 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=ubuntu uid=7760 euid=0 tty=pts/0 ruser=ubuntu rhost=  user=root
+Mar 26 09:11:31 victim-db sshd[35481]: Failed password for invalid user guest from 203.0.113.91 port 30124 ssh2
+Mar 26 09:33:37 victim-db sshd[77139]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Mar 26 09:56:00 victim-db sshd[74016]: Accepted password for user from 172.16.0.16 port 62901 ssh2
+Mar 26 09:58:27 victim-db sshd[2594]: Failed password for invalid user testuser from 10.0.0.24 port 13921 ssh2
+Mar 26 09:28:42 victim-db sshd[83820]: pam_unix(sshd:session): session closed for user admin
+Mar 26 09:09:44 victim-db sshd[72102]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:02:54 victim-db sshd[25679]: Invalid user ubuntu from 172.16.0.20 port 31832
+Mar 26 09:01:12 victim-db sshd[33926]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:31:22 victim-db sshd[70377]: Accepted password for user from 203.0.113.48 port 11808 ssh2
+Mar 26 09:36:01 victim-db sshd[43190]: pam_unix(sshd:session): session closed for user admin
+Mar 26 09:35:25 victim-db sshd[62921]: Failed password for invalid user admin from 10.0.0.73 port 5435 ssh2
+Mar 26 09:17:11 victim-db sshd[84263]: Accepted password for user from 203.0.113.185 port 26041 ssh2
+Mar 26 09:58:51 victim-db sshd[2431]: Invalid user guest from 10.0.0.103 port 36040
+Mar 26 09:37:24 victim-db sshd[83130]: Invalid user guest from 10.0.0.143 port 56477
+Mar 26 09:41:13 victim-db sshd[94455]: Invalid user root from 192.168.1.211 port 34719
+Mar 26 09:42:02 victim-db sshd[41523]: Accepted password for user from 192.168.1.126 port 11918 ssh2
+Mar 26 09:49:00 victim-db sshd[51853]: Invalid user testuser from 192.168.1.140 port 38960
+Mar 26 09:13:56 victim-db sshd[21012]: Invalid user guest from 10.0.0.188 port 51729
+Mar 26 09:25:32 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=ubuntu uid=1264 euid=0 tty=pts/0 ruser=ubuntu rhost=  user=root
+Mar 26 09:55:23 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=guest uid=1310 euid=0 tty=pts/0 ruser=guest rhost=  user=root
+Mar 26 09:56:47 victim-db sshd[38621]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:07:52 victim-db sshd[93049]: Failed password for invalid user ubuntu from 10.0.0.128 port 53469 ssh2
+Mar 26 09:03:24 victim-db sshd[69187]: pam_unix(sshd:session): session closed for user guest
+Mar 26 09:35:09 victim-db sshd[12984]: Failed password for invalid user admin from 172.16.0.178 port 18663 ssh2
+Mar 26 09:45:46 victim-db sshd[21843]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:23:47 victim-db sudo: testuser : TTY=pts/0 ; PWD=/home/testuser ; testuser=root ; COMMAND=/bin/bash
+Mar 26 09:39:50 victim-db sshd[62290]: Failed password for invalid user root from 172.16.0.105 port 10001 ssh2
+Mar 26 09:11:36 victim-db sshd[63090]: pam_unix(sshd:session): session closed for user admin
+Mar 26 09:31:35 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=guest uid=1480 euid=0 tty=pts/0 ruser=guest rhost=  user=root
+Mar 26 09:45:43 victim-db sshd[62732]: Accepted password for user from 172.16.0.191 port 13853 ssh2
+Mar 26 09:47:56 victim-db sudo: admin : TTY=pts/0 ; PWD=/home/admin ; admin=root ; COMMAND=/bin/bash
+Mar 26 09:22:36 victim-db sshd[85638]: Accepted password for user from 10.0.0.165 port 6314 ssh2
+Mar 26 09:46:06 victim-db sshd[44525]: Failed password for invalid user guest from 192.168.1.69 port 22257 ssh2
+Mar 26 09:37:43 victim-db sshd[74954]: Failed password for invalid user root from 203.0.113.92 port 12124 ssh2
+Mar 26 09:06:50 victim-db sshd[59150]: Accepted password for user from 10.0.0.95 port 49625 ssh2
+Mar 26 09:58:45 victim-db sshd[90179]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:09:04 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=admin uid=5403 euid=0 tty=pts/0 ruser=admin rhost=  user=root
+Mar 26 09:48:29 victim-db sshd[58924]: pam_unix(sshd:session): session opened for user guest by (uid=0)
+Mar 26 09:42:53 victim-db sshd[95458]: Failed password for invalid user root from 10.0.0.91 port 39370 ssh2
+Mar 26 09:07:50 victim-db sshd[67377]: Accepted password for user from 203.0.113.132 port 25716 ssh2
+Mar 26 09:39:28 victim-db sshd[6240]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Mar 26 09:00:15 victim-db sudo: testuser : TTY=pts/0 ; PWD=/home/testuser ; testuser=root ; COMMAND=/bin/bash
+Mar 26 09:57:25 victim-db sshd[38433]: pam_unix(sshd:session): session closed for user root
+Mar 26 09:52:26 victim-db sshd[4948]: Invalid user admin from 192.168.1.241 port 48950
+Mar 26 09:27:57 victim-db sshd[49708]: Invalid user root from 203.0.113.5 port 3814
+Mar 26 09:45:55 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=root uid=9688 euid=0 tty=pts/0 ruser=root rhost=  user=root
+Mar 26 09:02:09 victim-db sshd[23629]: pam_unix(sshd:session): session opened for user testuser by (uid=0)
+Mar 26 09:22:16 victim-db sshd[75234]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:07:07 victim-db sshd[33614]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Mar 26 09:15:35 victim-db sudo: admin : TTY=pts/0 ; PWD=/home/admin ; admin=root ; COMMAND=/bin/bash
+Mar 26 09:03:56 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=guest uid=7781 euid=0 tty=pts/0 ruser=guest rhost=  user=root
+Mar 26 09:49:22 victim-db sshd[75856]: pam_unix(sshd:session): session opened for user guest by (uid=0)
+Mar 26 09:01:17 victim-db sshd[24336]: pam_unix(sshd:session): session closed for user testuser
+Mar 26 09:29:52 victim-db sshd[88271]: Accepted password for user from 10.0.0.192 port 32718 ssh2
+Mar 26 09:17:34 victim-db sshd[26715]: Invalid user guest from 192.168.1.115 port 13031
+Mar 26 09:29:54 victim-db sshd[76901]: Invalid user ubuntu from 192.168.1.107 port 29673
+Mar 26 09:22:24 victim-db sudo: testuser : TTY=pts/0 ; PWD=/home/testuser ; testuser=root ; COMMAND=/bin/bash
+Mar 26 09:32:07 victim-db sshd[20788]: Failed password for invalid user ubuntu from 10.0.0.183 port 5304 ssh2
+Mar 26 09:43:51 victim-db sshd[5338]: Invalid user guest from 203.0.113.125 port 2766
+Mar 26 09:51:35 victim-db sshd[4130]: pam_unix(sshd:session): session opened for user testuser by (uid=0)
+Mar 26 09:38:31 victim-db sshd[36329]: pam_unix(sshd:session): session opened for user testuser by (uid=0)
+Mar 26 09:46:21 victim-db sshd[51323]: pam_unix(sshd:session): session closed for user admin
+Mar 26 09:30:06 victim-db sshd[41481]: Accepted password for user from 192.168.1.11 port 24577 ssh2
+Mar 26 09:22:46 victim-db sshd[76499]: pam_unix(sshd:session): session closed for user guest
+Mar 26 09:50:32 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=admin uid=4386 euid=0 tty=pts/0 ruser=admin rhost=  user=root
+Mar 26 09:23:29 victim-db sshd[3352]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Mar 26 09:21:56 victim-db sshd[86280]: Failed password for invalid user testuser from 172.16.0.34 port 5095 ssh2
+Mar 26 09:53:51 victim-db sshd[26820]: Accepted password for user from 192.168.1.181 port 32240 ssh2
+Mar 26 09:05:17 victim-db sshd[48027]: Invalid user guest from 192.168.1.134 port 33747
+Mar 26 09:12:20 victim-db sshd[74386]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Mar 26 09:23:01 victim-db sshd[91728]: Failed password for invalid user admin from 203.0.113.179 port 21494 ssh2
+Mar 26 09:08:43 victim-db sshd[43329]: pam_unix(sshd:session): session closed for user root
+Mar 26 09:10:21 victim-db sshd[24907]: Invalid user guest from 203.0.113.184 port 37775
+Mar 26 09:47:40 victim-db sudo: testuser : TTY=pts/0 ; PWD=/home/testuser ; testuser=root ; COMMAND=/bin/bash
+Mar 26 09:43:34 victim-db sshd[85846]: pam_unix(sshd:session): session closed for user guest
+Mar 26 09:46:06 victim-db sshd[62162]: Failed password for invalid user ubuntu from 203.0.113.94 port 49867 ssh2
+Mar 26 09:28:51 victim-db sshd[95170]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Mar 26 09:45:26 victim-db sshd[2838]: pam_unix(sshd:session): session closed for user guest
+Mar 26 09:01:41 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=admin uid=9836 euid=0 tty=pts/0 ruser=admin rhost=  user=root
+Mar 26 09:45:43 victim-db sshd[26129]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Mar 26 09:29:51 victim-db sshd[33010]: pam_unix(sshd:session): session closed for user ubuntu
+Mar 26 09:43:50 victim-db sshd[66191]: Accepted password for user from 10.0.0.196 port 3554 ssh2
+Mar 26 09:19:21 victim-db sshd[88622]: pam_unix(sshd:session): session closed for user root
+Mar 26 09:06:34 victim-db sshd[98061]: pam_unix(sshd:session): session closed for user guest
+Mar 26 09:35:23 victim-db sshd[63645]: pam_unix(sshd:session): session closed for user ubuntu
+Mar 26 09:53:28 victim-db sshd[23083]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:28:07 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=guest uid=2321 euid=0 tty=pts/0 ruser=guest rhost=  user=root
+Mar 26 09:45:12 victim-db sshd[60737]: pam_unix(sshd:session): session closed for user ubuntu
+Mar 26 09:16:03 victim-db sudo: testuser : TTY=pts/0 ; PWD=/home/testuser ; testuser=root ; COMMAND=/bin/bash
+Mar 26 09:34:06 victim-db sshd[85471]: Failed password for invalid user testuser from 10.0.0.170 port 20632 ssh2
+Mar 26 09:00:08 victim-db sshd[25184]: Accepted password for user from 203.0.113.47 port 3078 ssh2
+Mar 26 09:13:47 victim-db sudo: admin : TTY=pts/0 ; PWD=/home/admin ; admin=root ; COMMAND=/bin/bash
+Mar 26 09:07:46 victim-db sshd[2520]: Accepted password for user from 203.0.113.85 port 27632 ssh2
+Mar 26 09:59:15 victim-db sshd[26524]: Accepted password for user from 203.0.113.45 port 63496 ssh2
+Mar 26 09:20:26 victim-db sshd[51131]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:20:45 victim-db sshd[9695]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:06:52 victim-db sshd[24305]: pam_unix(sshd:session): session closed for user admin
+Mar 26 09:20:03 victim-db sshd[24683]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:28:20 victim-db sshd[73602]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:06:08 victim-db sshd[55660]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:46:46 victim-db sudo: guest : TTY=pts/0 ; PWD=/home/guest ; guest=root ; COMMAND=/bin/bash
+Mar 26 09:42:32 victim-db sshd[7404]: Failed password for invalid user guest from 10.0.0.136 port 36546 ssh2
+Mar 26 09:21:57 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=testuser uid=5911 euid=0 tty=pts/0 ruser=testuser rhost=  user=root
+Mar 26 09:47:40 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=guest uid=6116 euid=0 tty=pts/0 ruser=guest rhost=  user=root
+Mar 26 09:13:11 victim-db sshd[23451]: Invalid user ubuntu from 192.168.1.173 port 37816
+Mar 26 09:07:25 victim-db sshd[52490]: Accepted password for user from 203.0.113.36 port 49942 ssh2
+Mar 26 09:13:02 victim-db sshd[25499]: Accepted password for user from 172.16.0.45 port 4315 ssh2
+Mar 26 09:27:29 victim-db sshd[73620]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:17:22 victim-db sudo: root : TTY=pts/0 ; PWD=/home/root ; root=root ; COMMAND=/bin/bash
+Mar 26 09:11:24 victim-db sshd[38433]: Invalid user guest from 192.168.1.216 port 50573
+Mar 26 09:46:21 victim-db sshd[91227]: Invalid user guest from 10.0.0.125 port 37186
+Mar 26 09:12:19 victim-db sudo: admin : TTY=pts/0 ; PWD=/home/admin ; admin=root ; COMMAND=/bin/bash
+Mar 26 09:47:54 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=root uid=8803 euid=0 tty=pts/0 ruser=root rhost=  user=root
+Mar 26 09:54:36 victim-db sshd[47459]: Invalid user ubuntu from 192.168.1.226 port 38508
+Mar 26 09:40:16 victim-db sshd[49406]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:26:14 victim-db sshd[92324]: pam_unix(sshd:session): session closed for user root
+Mar 26 09:45:00 victim-db sshd[69439]: pam_unix(sshd:session): session closed for user admin
+Mar 26 09:38:47 victim-db sshd[16108]: Invalid user guest from 192.168.1.103 port 7407
+Mar 26 09:30:07 victim-db sshd[74658]: Failed password for invalid user guest from 172.16.0.231 port 54230 ssh2
+Mar 26 09:10:16 victim-db sshd[77082]: Invalid user admin from 10.0.0.4 port 46706
+Mar 26 09:42:51 victim-db sshd[76751]: Invalid user guest from 10.0.0.174 port 27071
+Mar 26 09:00:20 victim-db sshd[21374]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Mar 26 09:52:58 victim-db sshd[82726]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:36:19 victim-db sshd[16125]: Failed password for invalid user guest from 172.16.0.86 port 57234 ssh2
+Mar 26 09:38:18 victim-db sshd[23178]: pam_unix(sshd:session): session closed for user guest
+Mar 26 09:23:25 victim-db sudo: guest : TTY=pts/0 ; PWD=/home/guest ; guest=root ; COMMAND=/bin/bash
+Mar 26 09:22:51 victim-db sshd[8937]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:02:56 victim-db sshd[83361]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Mar 26 09:48:58 victim-db sshd[60050]: Invalid user guest from 10.0.0.38 port 40155
+Mar 26 09:13:27 victim-db sshd[7171]: pam_unix(sshd:session): session opened for user testuser by (uid=0)
+Mar 26 10:16:30 victim-db sshd[5680]: Accepted publickey for dbadmin from 192.168.1.10 port 54323 ssh-rsa SHA256:hK6cLRP4m5w60fHK1BGmWooBTXIWz+vtVHmuH/luoVQ
+Mar 26 09:42:30 victim-db sshd[90609]: Accepted password for user from 192.168.1.104 port 2695 ssh2
+Mar 26 09:09:33 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=ubuntu uid=6851 euid=0 tty=pts/0 ruser=ubuntu rhost=  user=root
+Mar 26 09:04:42 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=guest uid=3751 euid=0 tty=pts/0 ruser=guest rhost=  user=root
+Mar 26 09:25:13 victim-db sshd[57337]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:57:56 victim-db sshd[92922]: Accepted password for user from 192.168.1.196 port 49476 ssh2
+Mar 26 09:04:53 victim-db sshd[60129]: Failed password for invalid user guest from 172.16.0.219 port 47152 ssh2
+Mar 26 09:51:53 victim-db sshd[74277]: Accepted password for user from 192.168.1.66 port 28998 ssh2
+Mar 26 09:54:12 victim-db sshd[17888]: pam_unix(sshd:session): session closed for user ubuntu
+Mar 26 09:40:41 victim-db sshd[83287]: Accepted password for user from 10.0.0.43 port 6349 ssh2
+Mar 26 09:43:09 victim-db sudo: guest : TTY=pts/0 ; PWD=/home/guest ; guest=root ; COMMAND=/bin/bash
+Mar 26 09:40:36 victim-db sshd[68475]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:18:13 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=testuser uid=5828 euid=0 tty=pts/0 ruser=testuser rhost=  user=root
+Mar 26 09:36:33 victim-db sudo: admin : TTY=pts/0 ; PWD=/home/admin ; admin=root ; COMMAND=/bin/bash
+Mar 26 09:29:56 victim-db sshd[28536]: Invalid user guest from 172.16.0.152 port 41051
+Mar 26 09:28:22 victim-db sshd[2089]: Invalid user guest from 10.0.0.110 port 28313
+Mar 26 09:48:33 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=testuser uid=3283 euid=0 tty=pts/0 ruser=testuser rhost=  user=root
+Mar 26 09:42:40 victim-db sshd[74683]: Accepted password for user from 172.16.0.209 port 47184 ssh2
+Mar 26 09:20:21 victim-db sshd[85829]: Failed password for invalid user guest from 203.0.113.220 port 42003 ssh2
+Mar 26 09:00:30 victim-db sudo: testuser : TTY=pts/0 ; PWD=/home/testuser ; testuser=root ; COMMAND=/bin/bash
+Mar 26 09:29:55 victim-db sshd[73638]: Invalid user root from 10.0.0.166 port 51968
+Mar 26 09:09:07 victim-db sudo: guest : TTY=pts/0 ; PWD=/home/guest ; guest=root ; COMMAND=/bin/bash
+Mar 26 09:48:01 victim-db sshd[20894]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Mar 26 09:10:07 victim-db sshd[52505]: Failed password for invalid user guest from 172.16.0.47 port 3110 ssh2
+Mar 26 09:59:11 victim-db sshd[43099]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:11:27 victim-db sshd[29473]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Mar 26 09:35:51 victim-db sshd[51509]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:51:17 victim-db sshd[30511]: Failed password for invalid user guest from 203.0.113.149 port 24155 ssh2
+Mar 26 09:41:43 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=testuser uid=3701 euid=0 tty=pts/0 ruser=testuser rhost=  user=root
+Mar 26 09:30:48 victim-db sshd[77052]: Accepted password for user from 10.0.0.95 port 43059 ssh2
+Mar 26 09:22:03 victim-db sshd[95515]: Failed password for invalid user admin from 172.16.0.214 port 53088 ssh2
+Mar 26 09:01:04 victim-db sshd[73838]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Mar 26 09:31:47 victim-db sshd[91337]: Accepted password for user from 192.168.1.194 port 50793 ssh2
+Mar 26 09:39:07 victim-db sshd[31845]: Accepted password for user from 192.168.1.58 port 23394 ssh2
+Mar 26 09:58:55 victim-db sshd[86328]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Mar 26 09:38:14 victim-db sshd[95435]: Invalid user ubuntu from 203.0.113.164 port 34595
+Mar 26 09:46:37 victim-db sshd[91758]: pam_unix(sshd:session): session closed for user root
+Mar 26 09:17:00 victim-db sshd[79984]: pam_unix(sshd:session): session closed for user guest
+Mar 26 09:38:13 victim-db sshd[3161]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:37:56 victim-db sshd[30378]: Failed password for invalid user guest from 203.0.113.9 port 19516 ssh2
+Mar 26 09:38:14 victim-db sudo: guest : TTY=pts/0 ; PWD=/home/guest ; guest=root ; COMMAND=/bin/bash
+Mar 26 09:52:17 victim-db sshd[27384]: pam_unix(sshd:session): session opened for user guest by (uid=0)
+Mar 26 09:15:44 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=testuser uid=5508 euid=0 tty=pts/0 ruser=testuser rhost=  user=root
+Mar 26 09:07:29 victim-db sshd[7516]: Invalid user ubuntu from 172.16.0.199 port 9651
+Mar 26 09:01:52 victim-db sshd[24080]: pam_unix(sshd:session): session closed for user testuser
+Mar 26 09:49:25 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=testuser uid=6849 euid=0 tty=pts/0 ruser=testuser rhost=  user=root
+Mar 26 09:41:26 victim-db sshd[77855]: Failed password for invalid user guest from 192.168.1.140 port 45953 ssh2
+Mar 26 09:49:22 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=testuser uid=8028 euid=0 tty=pts/0 ruser=testuser rhost=  user=root
+Mar 26 09:44:36 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=admin uid=6434 euid=0 tty=pts/0 ruser=admin rhost=  user=root
+Mar 26 09:16:57 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=testuser uid=7947 euid=0 tty=pts/0 ruser=testuser rhost=  user=root
+Mar 26 09:17:37 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=admin uid=1577 euid=0 tty=pts/0 ruser=admin rhost=  user=root
+Mar 26 09:37:46 victim-db sudo: testuser : TTY=pts/0 ; PWD=/home/testuser ; testuser=root ; COMMAND=/bin/bash
+Mar 26 09:11:18 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=root uid=9004 euid=0 tty=pts/0 ruser=root rhost=  user=root
+Mar 26 09:17:33 victim-db sshd[15222]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:39:46 victim-db sshd[9386]: pam_unix(sshd:session): session closed for user admin
+Mar 26 09:16:47 victim-db sshd[88385]: pam_unix(sshd:session): session opened for user guest by (uid=0)
+Mar 26 09:05:45 victim-db sshd[78505]: pam_unix(sshd:session): session closed for user guest
+Mar 26 09:12:48 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=guest uid=4157 euid=0 tty=pts/0 ruser=guest rhost=  user=root
+Mar 26 09:37:22 victim-db sshd[15089]: Accepted password for user from 172.16.0.239 port 47902 ssh2
+Mar 26 09:27:58 victim-db sshd[39632]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:50:14 victim-db sshd[60659]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:02:09 victim-db sshd[69846]: Accepted password for user from 10.0.0.180 port 21291 ssh2
+Mar 26 09:27:38 victim-db sshd[71696]: Accepted password for user from 192.168.1.2 port 31173 ssh2
+Mar 26 09:26:37 victim-db sshd[84146]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Mar 26 09:41:40 victim-db sshd[51393]: Invalid user root from 203.0.113.146 port 23735
+Mar 26 09:59:51 victim-db sshd[34110]: pam_unix(sshd:session): session closed for user admin
+Mar 26 09:34:07 victim-db sshd[86373]: pam_unix(sshd:session): session closed for user ubuntu
+Mar 26 09:39:44 victim-db sshd[22704]: pam_unix(sshd:session): session opened for user testuser by (uid=0)
+Mar 26 09:01:42 victim-db sudo: guest : TTY=pts/0 ; PWD=/home/guest ; guest=root ; COMMAND=/bin/bash
+Mar 26 09:57:36 victim-db sshd[66312]: Failed password for invalid user guest from 203.0.113.249 port 57237 ssh2
+Mar 26 09:00:52 victim-db sshd[3990]: Invalid user admin from 203.0.113.205 port 37214
+Mar 26 09:02:31 victim-db sshd[15138]: Accepted password for user from 172.16.0.58 port 33229 ssh2
+Mar 26 09:52:31 victim-db sshd[41987]: Failed password for invalid user admin from 172.16.0.97 port 23510 ssh2
+Mar 26 09:58:34 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=guest uid=6912 euid=0 tty=pts/0 ruser=guest rhost=  user=root
+Mar 26 09:53:34 victim-db sshd[63932]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:42:06 victim-db sshd[19551]: Accepted password for user from 172.16.0.141 port 49724 ssh2
+Mar 26 09:02:17 victim-db sshd[73531]: Failed password for invalid user root from 192.168.1.171 port 50342 ssh2
+Mar 26 09:23:34 victim-db sudo: root : TTY=pts/0 ; PWD=/home/root ; root=root ; COMMAND=/bin/bash
+Mar 26 09:16:25 victim-db sshd[40934]: pam_unix(sshd:session): session opened for user testuser by (uid=0)
+Mar 26 09:27:40 victim-db sshd[29872]: pam_unix(sshd:session): session opened for user guest by (uid=0)
+Mar 26 09:30:27 victim-db sshd[90616]: pam_unix(sshd:session): session opened for user guest by (uid=0)
+Mar 26 09:48:35 victim-db sshd[49150]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:23:20 victim-db sshd[6800]: Accepted password for user from 203.0.113.131 port 50395 ssh2
+Mar 26 09:23:10 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=ubuntu uid=2468 euid=0 tty=pts/0 ruser=ubuntu rhost=  user=root
+Mar 26 09:09:06 victim-db sshd[78903]: Accepted password for user from 10.0.0.68 port 28638 ssh2
+Mar 26 09:03:55 victim-db sshd[8794]: Failed password for invalid user root from 192.168.1.186 port 11890 ssh2
+Mar 26 09:40:37 victim-db sshd[88015]: Invalid user root from 192.168.1.42 port 58463
+Mar 26 09:24:36 victim-db sshd[57639]: Invalid user admin from 172.16.0.80 port 60299
+Mar 26 09:46:04 victim-db sshd[77465]: Accepted password for user from 192.168.1.82 port 64903 ssh2
+Mar 26 09:07:13 victim-db sudo: admin : TTY=pts/0 ; PWD=/home/admin ; admin=root ; COMMAND=/bin/bash
+Mar 26 09:39:53 victim-db sshd[49486]: Accepted password for user from 192.168.1.13 port 64702 ssh2
+Mar 26 09:35:38 victim-db sudo: admin : TTY=pts/0 ; PWD=/home/admin ; admin=root ; COMMAND=/bin/bash
+Mar 26 09:00:01 victim-db sudo: guest : TTY=pts/0 ; PWD=/home/guest ; guest=root ; COMMAND=/bin/bash
+Mar 26 09:47:15 victim-db sshd[53066]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:03:01 victim-db sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; ubuntu=root ; COMMAND=/bin/bash
+Mar 26 09:04:20 victim-db sshd[46126]: pam_unix(sshd:session): session closed for user admin
+Mar 26 09:29:07 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=admin uid=2115 euid=0 tty=pts/0 ruser=admin rhost=  user=root
+Mar 26 09:09:31 victim-db sshd[19392]: Invalid user ubuntu from 192.168.1.170 port 4614
+Mar 26 09:06:34 victim-db sshd[52195]: Failed password for invalid user admin from 172.16.0.103 port 8521 ssh2
+Mar 26 09:12:13 victim-db sudo: root : TTY=pts/0 ; PWD=/home/root ; root=root ; COMMAND=/bin/bash
+Mar 26 09:52:33 victim-db sshd[17880]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:34:47 victim-db sshd[38596]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:50:26 victim-db sshd[26827]: Failed password for invalid user guest from 203.0.113.220 port 53513 ssh2
+Mar 26 09:11:20 victim-db sshd[95866]: Failed password for invalid user guest from 172.16.0.6 port 33692 ssh2
+Mar 26 09:55:05 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=guest uid=1689 euid=0 tty=pts/0 ruser=guest rhost=  user=root
+Mar 26 09:54:11 victim-db sudo: admin : TTY=pts/0 ; PWD=/home/admin ; admin=root ; COMMAND=/bin/bash
+Mar 26 09:15:55 victim-db sshd[11397]: Server listening on 0.0.0.0 port 22.
+Mar 26 09:43:47 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=ubuntu uid=1597 euid=0 tty=pts/0 ruser=ubuntu rhost=  user=root
+Mar 26 09:43:56 victim-db sshd[97054]: Failed password for invalid user admin from 172.16.0.242 port 43182 ssh2
+Mar 26 09:14:02 victim-db sudo: testuser : TTY=pts/0 ; PWD=/home/testuser ; testuser=root ; COMMAND=/bin/bash
+Mar 26 09:54:16 victim-db sshd[51197]: pam_unix(sshd:session): session opened for user testuser by (uid=0)
+Mar 26 09:50:45 victim-db sshd[8902]: pam_unix(sshd:session): session opened for user guest by (uid=0)
+Mar 26 09:39:37 victim-db sshd[92354]: Invalid user admin from 203.0.113.26 port 37083
+Mar 26 09:20:51 victim-db sshd[85196]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Mar 26 09:49:31 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=admin uid=5331 euid=0 tty=pts/0 ruser=admin rhost=  user=root
+Mar 26 09:53:06 victim-db sshd[32832]: pam_unix(sshd:session): session closed for user root
+Mar 26 09:38:53 victim-db sshd[53293]: Accepted password for user from 172.16.0.211 port 56634 ssh2
+Mar 26 09:52:51 victim-db sshd[94674]: Accepted password for user from 172.16.0.205 port 8540 ssh2
+Mar 26 09:06:11 victim-db sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; ubuntu=root ; COMMAND=/bin/bash
+Mar 26 09:08:09 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=admin uid=1066 euid=0 tty=pts/0 ruser=admin rhost=  user=root
+Mar 26 09:41:42 victim-db sshd[29897]: Failed password for invalid user testuser from 192.168.1.16 port 62341 ssh2
+Mar 26 09:48:21 victim-db sshd[10051]: Failed password for invalid user ubuntu from 10.0.0.31 port 24414 ssh2
+Mar 26 09:25:50 victim-db sshd[34081]: Invalid user admin from 10.0.0.1 port 38500
+Mar 26 09:35:07 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=admin uid=6111 euid=0 tty=pts/0 ruser=admin rhost=  user=root
+Mar 26 09:58:34 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=guest uid=6705 euid=0 tty=pts/0 ruser=guest rhost=  user=root
+Mar 26 09:01:25 victim-db sshd[66565]: pam_unix(sshd:session): session closed for user ubuntu
+Mar 26 09:56:40 victim-db sshd[80035]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Mar 26 09:44:49 victim-db sudo: pam_unix(sudo:auth): authentication failure; logname=guest uid=1182 euid=0 tty=pts/0 ruser=guest rhost=  user=root
+Mar 26 09:43:32 victim-db sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; ubuntu=root ; COMMAND=/bin/bash
+Mar 26 09:08:58 victim-db sshd[54546]: pam_unix(sshd:session): session closed for user guest
+Mar 26 09:10:30 victim-db sshd[36761]: Accepted password for user from 203.0.113.183 port 31406 ssh2
+Mar 26 09:56:42 victim-db sshd[70908]: Failed password for invalid user admin from 203.0.113.234 port 21636 ssh2
+Mar 26 09:24:40 victim-db sshd[75411]: pam_unix(sshd:session): session closed for user admin
+Mar 26 09:50:33 victim-db sshd[91192]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)

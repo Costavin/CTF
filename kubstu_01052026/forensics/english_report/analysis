@@ -1,0 +1,5 @@
+Binwalk somehow got it wrong. It decrypts it to an empty file.
+
+#move the offset at the start, and transfer right 577 bytes. Then decrypt normalyy with pass
+dd if=KUBSTU_Financial_Report_2025.pdf of=extracted_archive.zip bs=1 skip=2122 count=577
+

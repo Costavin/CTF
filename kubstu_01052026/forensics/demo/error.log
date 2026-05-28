@@ -1,0 +1,402 @@
+[Thu Mar 26 09:02:08.000 2026] [crit] [pid 50068] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:11:22.000 2026] [crit] [pid 35860] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:35:57.000 2026] [warn] [pid 37384] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:20:45.000 2026] [warn] [pid 49517] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:07:54.000 2026] [notice] [pid 86227] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:11:29.000 2026] [crit] [pid 43678] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:57:08.000 2026] [error] [pid 11942] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:45:55.000 2026] [crit] [pid 33672] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:33:22.000 2026] [warn] [pid 81442] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:51:14.000 2026] [error] [pid 67269] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:16:21.000 2026] [warn] [pid 91382] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:10:58.000 2026] [notice] [pid 15958] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:07:25.000 2026] [error] [pid 58711] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 10:16:05.000 2026] [php:error] [pid 12347] PHP Error: Call to undefined function system() in /var/www/html/uploads/shell.php on line 1
+[Thu Mar 26 09:36:52.000 2026] [warn] [pid 25570] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:23:06.000 2026] [crit] [pid 71412] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:34:47.000 2026] [error] [pid 87863] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:00:04.000 2026] [warn] [pid 31880] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:09:28.000 2026] [crit] [pid 68609] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:52:56.000 2026] [notice] [pid 71890] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:12:31.000 2026] [error] [pid 99101] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:30:36.000 2026] [crit] [pid 42175] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:03:16.000 2026] [warn] [pid 22245] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:44:00.000 2026] [error] [pid 29156] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:38:45.000 2026] [crit] [pid 10864] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:26:33.000 2026] [notice] [pid 57269] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:46:58.000 2026] [warn] [pid 71086] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:44:46.000 2026] [error] [pid 70703] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:48:10.000 2026] [notice] [pid 31589] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:04:09.000 2026] [notice] [pid 53421] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:58:41.000 2026] [crit] [pid 75210] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:53:41.000 2026] [crit] [pid 45258] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:27:27.000 2026] [crit] [pid 9837] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:29:05.000 2026] [warn] [pid 5566] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:57:07.000 2026] [error] [pid 47492] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:06:25.000 2026] [notice] [pid 71829] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:03:23.000 2026] [crit] [pid 47145] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:51:12.000 2026] [error] [pid 82750] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:39:09.000 2026] [error] [pid 14326] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:53:50.000 2026] [warn] [pid 47270] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:39:12.000 2026] [crit] [pid 55526] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:36:58.000 2026] [crit] [pid 6115] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:36:28.000 2026] [notice] [pid 7488] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:52:12.000 2026] [crit] [pid 12702] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:58:44.000 2026] [warn] [pid 1134] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:15:51.000 2026] [warn] [pid 18637] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:58:51.000 2026] [error] [pid 85696] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:59:00.000 2026] [notice] [pid 14144] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:00:45.000 2026] [error] [pid 6131] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:34:03.000 2026] [crit] [pid 72190] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:41:02.000 2026] [crit] [pid 82894] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:09:21.000 2026] [crit] [pid 74605] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:41:03.000 2026] [warn] [pid 97938] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:45:11.000 2026] [notice] [pid 43413] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:14:16.000 2026] [crit] [pid 16598] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:42:19.000 2026] [notice] [pid 98820] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:00:14.000 2026] [error] [pid 70083] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:01:57.000 2026] [crit] [pid 53596] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:21:40.000 2026] [warn] [pid 90863] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:53:39.000 2026] [crit] [pid 40866] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:30:09.000 2026] [warn] [pid 57618] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:35:35.000 2026] [crit] [pid 20571] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:26:39.000 2026] [warn] [pid 30718] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:14:44.000 2026] [error] [pid 49920] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:00:27.000 2026] [warn] [pid 88048] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:00:46.000 2026] [crit] [pid 21245] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:43:55.000 2026] [warn] [pid 95925] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:51:27.000 2026] [crit] [pid 72230] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:53:13.000 2026] [notice] [pid 55055] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:28:37.000 2026] [crit] [pid 37359] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:40:46.000 2026] [crit] [pid 92346] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:07:28.000 2026] [warn] [pid 98919] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:48:23.000 2026] [error] [pid 53282] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:42:16.000 2026] [error] [pid 19020] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:55:05.000 2026] [warn] [pid 45986] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:30:33.000 2026] [error] [pid 34168] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:36:54.000 2026] [notice] [pid 20701] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:43:58.000 2026] [crit] [pid 66375] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:04:49.000 2026] [notice] [pid 49663] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:05:49.000 2026] [warn] [pid 36035] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:11:44.000 2026] [crit] [pid 75153] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:59:30.000 2026] [warn] [pid 8916] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:06:38.000 2026] [warn] [pid 29308] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:29:23.000 2026] [warn] [pid 89819] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:19:04.000 2026] [crit] [pid 35477] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:23:24.000 2026] [notice] [pid 43794] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:39:07.000 2026] [error] [pid 72872] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:33:15.000 2026] [error] [pid 9693] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:24:24.000 2026] [crit] [pid 76413] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:45:31.000 2026] [error] [pid 2358] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:46:46.000 2026] [error] [pid 78730] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:26:57.000 2026] [error] [pid 57940] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:47:30.000 2026] [crit] [pid 15738] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:01:56.000 2026] [error] [pid 66753] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:39:22.000 2026] [warn] [pid 89013] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:43:13.000 2026] [notice] [pid 16992] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:49:32.000 2026] [crit] [pid 68025] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:39:06.000 2026] [warn] [pid 67250] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:07:21.000 2026] [crit] [pid 45594] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:13:45.000 2026] [warn] [pid 46654] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:50:26.000 2026] [notice] [pid 18811] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:16:56.000 2026] [notice] [pid 96903] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:57:44.000 2026] [warn] [pid 71664] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:31:19.000 2026] [notice] [pid 16047] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:55:06.000 2026] [warn] [pid 33265] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:17:38.000 2026] [crit] [pid 45869] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:30:23.000 2026] [notice] [pid 41497] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:05:40.000 2026] [notice] [pid 77180] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:59:12.000 2026] [crit] [pid 38561] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:31:40.000 2026] [warn] [pid 87871] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:20:43.000 2026] [notice] [pid 88622] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:28:28.000 2026] [warn] [pid 91577] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:24:16.000 2026] [warn] [pid 29666] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:07:02.000 2026] [warn] [pid 74612] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:46:36.000 2026] [crit] [pid 94408] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:00:20.000 2026] [crit] [pid 32232] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:03:58.000 2026] [crit] [pid 9184] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:32:46.000 2026] [error] [pid 70919] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:38:30.000 2026] [crit] [pid 55906] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:09:52.000 2026] [error] [pid 8548] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:43:00.000 2026] [notice] [pid 49712] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:47:06.000 2026] [notice] [pid 88686] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:34:00.000 2026] [warn] [pid 81930] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:29:33.000 2026] [notice] [pid 14365] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:43:41.000 2026] [error] [pid 57461] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:41:23.000 2026] [error] [pid 69319] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:09:32.000 2026] [error] [pid 25947] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:45:22.000 2026] [notice] [pid 17092] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:08:09.000 2026] [notice] [pid 82271] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:53:48.000 2026] [crit] [pid 79751] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:22:35.000 2026] [notice] [pid 18015] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:27:20.000 2026] [error] [pid 22521] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:35:04.000 2026] [warn] [pid 84018] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:45:47.000 2026] [notice] [pid 41160] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:03:30.000 2026] [error] [pid 80237] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:33:46.000 2026] [notice] [pid 48137] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:29:35.000 2026] [warn] [pid 53085] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:08:11.000 2026] [error] [pid 43012] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:23:48.000 2026] [notice] [pid 98041] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:58:10.000 2026] [warn] [pid 98518] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:01:07.000 2026] [warn] [pid 48577] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:55:34.000 2026] [warn] [pid 2418] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:42:33.000 2026] [error] [pid 52241] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:23:51.000 2026] [error] [pid 67612] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:18:27.000 2026] [crit] [pid 43775] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:41:27.000 2026] [error] [pid 69631] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:45:03.000 2026] [crit] [pid 31593] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:57:29.000 2026] [notice] [pid 41311] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:56:26.000 2026] [warn] [pid 67679] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:33:56.000 2026] [crit] [pid 25377] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:03:46.000 2026] [warn] [pid 16480] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:55:12.000 2026] [error] [pid 9321] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:59:29.000 2026] [warn] [pid 80544] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:34:35.000 2026] [warn] [pid 89797] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:20:23.000 2026] [error] [pid 15480] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:55:20.000 2026] [crit] [pid 66550] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:39:59.000 2026] [notice] [pid 6130] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:03:33.000 2026] [crit] [pid 54243] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:42:30.000 2026] [notice] [pid 68524] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:40:36.000 2026] [error] [pid 12154] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:16:33.000 2026] [error] [pid 10108] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:43:35.000 2026] [notice] [pid 78703] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:13:54.000 2026] [crit] [pid 78249] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:23:51.000 2026] [crit] [pid 66809] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:54:12.000 2026] [crit] [pid 2440] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:51:46.000 2026] [crit] [pid 51178] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:06:52.000 2026] [error] [pid 7629] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:45:29.000 2026] [error] [pid 48296] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:30:53.000 2026] [warn] [pid 12923] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:12:27.000 2026] [error] [pid 54153] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:34:53.000 2026] [notice] [pid 11724] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:05:28.000 2026] [warn] [pid 3414] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:58:54.000 2026] [warn] [pid 62832] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:33:21.000 2026] [crit] [pid 94505] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:16:11.000 2026] [crit] [pid 93066] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:55:11.000 2026] [crit] [pid 67739] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:04:29.000 2026] [crit] [pid 34490] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:35:12.000 2026] [error] [pid 92164] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:13:53.000 2026] [notice] [pid 43834] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:39:52.000 2026] [crit] [pid 43329] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:11:36.000 2026] [warn] [pid 90463] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:26:30.000 2026] [crit] [pid 16561] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:00:15.000 2026] [crit] [pid 93514] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:11:27.000 2026] [crit] [pid 6844] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:07:33.000 2026] [error] [pid 29031] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:22:35.000 2026] [error] [pid 47481] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:07:45.000 2026] [notice] [pid 22882] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:19:43.000 2026] [crit] [pid 4748] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:06:11.000 2026] [error] [pid 51928] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:15:35.000 2026] [warn] [pid 16794] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:49:24.000 2026] [warn] [pid 62151] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:04:10.000 2026] [notice] [pid 4257] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:59:21.000 2026] [crit] [pid 71618] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:40:03.000 2026] [error] [pid 8805] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:22:59.000 2026] [error] [pid 68411] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:55:34.000 2026] [crit] [pid 22495] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:25:11.000 2026] [crit] [pid 20406] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:00:56.000 2026] [crit] [pid 8015] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:32:20.000 2026] [crit] [pid 97024] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:43:27.000 2026] [notice] [pid 62131] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:20:40.000 2026] [warn] [pid 21909] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:41:33.000 2026] [warn] [pid 74700] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:03:47.000 2026] [warn] [pid 40532] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:41:21.000 2026] [notice] [pid 61657] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:38:06.000 2026] [crit] [pid 19611] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:46:32.000 2026] [error] [pid 97939] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:30:10.000 2026] [warn] [pid 27005] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:34:54.000 2026] [warn] [pid 31093] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:09:58.000 2026] [crit] [pid 82566] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:11:30.000 2026] [error] [pid 47510] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:02:44.000 2026] [warn] [pid 17565] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:36:35.000 2026] [notice] [pid 10593] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:36:35.000 2026] [crit] [pid 6138] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:22:31.000 2026] [warn] [pid 85519] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:23:22.000 2026] [notice] [pid 27535] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:24:16.000 2026] [notice] [pid 46000] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:59:39.000 2026] [error] [pid 90568] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:08:06.000 2026] [warn] [pid 94400] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:40:31.000 2026] [error] [pid 85286] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:01:13.000 2026] [error] [pid 12215] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:36:26.000 2026] [warn] [pid 21334] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:07:07.000 2026] [crit] [pid 57599] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:59:32.000 2026] [error] [pid 89592] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:14:35.000 2026] [notice] [pid 6947] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:16:27.000 2026] [notice] [pid 16181] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:16:36.000 2026] [error] [pid 86010] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:07:46.000 2026] [error] [pid 38733] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:13:14.000 2026] [notice] [pid 86999] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:56:02.000 2026] [warn] [pid 41368] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:51:54.000 2026] [crit] [pid 36324] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:08:11.000 2026] [notice] [pid 34585] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:00:48.000 2026] [error] [pid 75965] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:59:13.000 2026] [error] [pid 98702] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:38:44.000 2026] [notice] [pid 96699] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:21:30.000 2026] [crit] [pid 46905] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:36:10.000 2026] [notice] [pid 68719] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:30:33.000 2026] [notice] [pid 52564] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:27:16.000 2026] [error] [pid 22679] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:43:32.000 2026] [crit] [pid 67803] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:50:18.000 2026] [error] [pid 9665] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:25:15.000 2026] [crit] [pid 97339] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:19:06.000 2026] [error] [pid 65847] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:56:00.000 2026] [warn] [pid 43629] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:39:26.000 2026] [warn] [pid 81150] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:22:39.000 2026] [error] [pid 80058] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:44:05.000 2026] [error] [pid 8879] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:24:00.000 2026] [error] [pid 1158] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:31:04.000 2026] [warn] [pid 82220] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:18:04.000 2026] [crit] [pid 44886] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:23:41.000 2026] [warn] [pid 64739] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:24:15.000 2026] [crit] [pid 18917] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:43:21.000 2026] [crit] [pid 81462] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:54:44.000 2026] [crit] [pid 21521] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:51:12.000 2026] [warn] [pid 22174] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:12:16.000 2026] [error] [pid 26488] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:12:30.000 2026] [error] [pid 9164] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:19:31.000 2026] [warn] [pid 65560] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:18:05.000 2026] [error] [pid 90750] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:46:12.000 2026] [crit] [pid 82820] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:51:12.000 2026] [warn] [pid 56686] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:29:05.000 2026] [warn] [pid 64047] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:38:07.000 2026] [notice] [pid 5794] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:29:32.000 2026] [notice] [pid 29991] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:14:39.000 2026] [warn] [pid 66812] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:07:33.000 2026] [error] [pid 79288] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:39:22.000 2026] [crit] [pid 92730] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:47:01.000 2026] [error] [pid 28312] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:38:14.000 2026] [crit] [pid 37171] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:58:00.000 2026] [error] [pid 57036] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:57:27.000 2026] [notice] [pid 45843] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:30:33.000 2026] [crit] [pid 67998] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:59:09.000 2026] [warn] [pid 83814] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:10:18.000 2026] [crit] [pid 75970] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:53:31.000 2026] [warn] [pid 4498] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:27:25.000 2026] [error] [pid 93922] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:26:45.000 2026] [warn] [pid 40162] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:59:17.000 2026] [error] [pid 35079] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:02:32.000 2026] [error] [pid 21780] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:21:59.000 2026] [crit] [pid 17671] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:05:42.000 2026] [error] [pid 8605] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:28:16.000 2026] [error] [pid 34510] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:19:24.000 2026] [notice] [pid 24771] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:21:05.000 2026] [notice] [pid 72444] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:23:19.000 2026] [error] [pid 39444] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:20:42.000 2026] [crit] [pid 11185] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:27:10.000 2026] [crit] [pid 32852] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:56:30.000 2026] [notice] [pid 50751] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:38:06.000 2026] [crit] [pid 30480] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:06:03.000 2026] [crit] [pid 22642] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:53:20.000 2026] [crit] [pid 83729] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:29:31.000 2026] [crit] [pid 34444] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:42:29.000 2026] [crit] [pid 13391] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:29:00.000 2026] [warn] [pid 1882] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:20:01.000 2026] [warn] [pid 31240] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 10:15:22.000 2026] [php:warn] [pid 12346] PHP Warning: mysqli::query(): MySQL server has gone away in /var/www/html/index.php on line 15
+[Thu Mar 26 09:27:08.000 2026] [crit] [pid 29672] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:45:53.000 2026] [warn] [pid 8010] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:28:51.000 2026] [notice] [pid 26807] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:02:54.000 2026] [crit] [pid 80880] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:59:17.000 2026] [crit] [pid 10291] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:58:59.000 2026] [crit] [pid 70106] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:34:34.000 2026] [warn] [pid 53969] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:44:00.000 2026] [error] [pid 49892] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:00:55.000 2026] [crit] [pid 68610] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:39:45.000 2026] [notice] [pid 53347] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:11:50.000 2026] [crit] [pid 90134] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:05:21.000 2026] [notice] [pid 17528] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:50:04.000 2026] [warn] [pid 89178] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:11:33.000 2026] [notice] [pid 61847] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:49:59.000 2026] [error] [pid 1398] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:41:09.000 2026] [error] [pid 99124] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:19:52.000 2026] [error] [pid 19663] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:10:45.000 2026] [warn] [pid 48779] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:09:43.000 2026] [error] [pid 45847] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:01:47.000 2026] [notice] [pid 77836] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:42:47.000 2026] [warn] [pid 95527] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:03:34.000 2026] [warn] [pid 65696] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:42:47.000 2026] [error] [pid 99068] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:11:12.000 2026] [warn] [pid 92484] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:45:52.000 2026] [error] [pid 72682] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:54:57.000 2026] [error] [pid 46586] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:07:00.000 2026] [crit] [pid 28810] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:56:51.000 2026] [crit] [pid 62816] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:34:36.000 2026] [error] [pid 11128] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:51:10.000 2026] [warn] [pid 55283] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:23:41.000 2026] [warn] [pid 21471] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:39:04.000 2026] [warn] [pid 9995] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:31:04.000 2026] [error] [pid 74980] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:01:25.000 2026] [crit] [pid 67794] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:44:33.000 2026] [warn] [pid 19548] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:30:05.000 2026] [warn] [pid 66226] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:31:51.000 2026] [crit] [pid 83478] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:56:21.000 2026] [error] [pid 96144] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:11:30.000 2026] [crit] [pid 82311] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:17:01.000 2026] [error] [pid 59616] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:30:20.000 2026] [error] [pid 18495] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:48:11.000 2026] [warn] [pid 54126] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:08:53.000 2026] [crit] [pid 66252] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:49:21.000 2026] [warn] [pid 54796] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:06:10.000 2026] [warn] [pid 67723] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:17:05.000 2026] [crit] [pid 54863] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:02:17.000 2026] [crit] [pid 92195] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:36:29.000 2026] [error] [pid 77264] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:25:55.000 2026] [error] [pid 56572] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:46:21.000 2026] [notice] [pid 17011] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:11:04.000 2026] [crit] [pid 55519] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:24:27.000 2026] [error] [pid 95980] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:50:38.000 2026] [error] [pid 60061] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:31:15.000 2026] [warn] [pid 92089] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:41:36.000 2026] [warn] [pid 23481] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:34:23.000 2026] [crit] [pid 69771] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:15:01.000 2026] [crit] [pid 98238] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:04:57.000 2026] [warn] [pid 50525] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:11:12.000 2026] [crit] [pid 96651] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:45:08.000 2026] [warn] [pid 8107] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:41:14.000 2026] [crit] [pid 50534] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:59:54.000 2026] [error] [pid 73348] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:56:31.000 2026] [notice] [pid 93962] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:49:18.000 2026] [crit] [pid 14734] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:43:07.000 2026] [notice] [pid 28900] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:55:08.000 2026] [crit] [pid 76557] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:53:23.000 2026] [warn] [pid 64757] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:50:05.000 2026] [warn] [pid 8375] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:00:14.000 2026] [crit] [pid 16461] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:22:18.000 2026] [error] [pid 90738] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:39:03.000 2026] [crit] [pid 25242] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:42:40.000 2026] [warn] [pid 84861] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:16:54.000 2026] [error] [pid 7113] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:38:08.000 2026] [warn] [pid 31744] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:54:47.000 2026] [warn] [pid 19876] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:38:16.000 2026] [warn] [pid 76923] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:43:28.000 2026] [error] [pid 18437] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:53:52.000 2026] [warn] [pid 73762] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:05:52.000 2026] [crit] [pid 87124] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:57:46.000 2026] [notice] [pid 60978] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:49:31.000 2026] [error] [pid 57434] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:30:50.000 2026] [warn] [pid 84793] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:27:38.000 2026] [warn] [pid 50852] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:29:32.000 2026] [error] [pid 26238] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:05:43.000 2026] [crit] [pid 42370] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:03:34.000 2026] [crit] [pid 67405] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:37:58.000 2026] [notice] [pid 97593] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:43:31.000 2026] [crit] [pid 49973] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:45:18.000 2026] [crit] [pid 75132] PHP Warning: mysqli::query(): (HY000/2002): No such file or directory in /var/www/html/db_connect.php on line 7
+[Thu Mar 26 09:54:12.000 2026] [crit] [pid 6519] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:25:43.000 2026] [crit] [pid 82559] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:35:43.000 2026] [notice] [pid 97581] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:19:26.000 2026] [warn] [pid 56814] PHP Notice: Undefined index: page in /var/www/html/index.php on line 15
+[Thu Mar 26 09:12:22.000 2026] [notice] [pid 13659] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:59:24.000 2026] [notice] [pid 41079] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:38:43.000 2026] [crit] [pid 56498] [core:error] [pid 12345] [client 10.0.0.5:12345] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Mar 26 09:28:31.000 2026] [warn] [pid 80342] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:47:10.000 2026] [notice] [pid 22753] [client 127.0.0.1] File does not exist: /var/www/html/favicon.ico
+[Thu Mar 26 09:53:09.000 2026] [error] [pid 72243] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:00:00.000 2026] [error] [pid 60481] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
+[Thu Mar 26 09:25:05.000 2026] [crit] [pid 60789] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:47:03.000 2026] [crit] [pid 62708] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:48:59.000 2026] [crit] [pid 98573] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:42:16.000 2026] [notice] [pid 83110] [mpm_prefork:notice] [pid 1234] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 26 09:29:53.000 2026] [notice] [pid 46046] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:05:09.000 2026] [warn] [pid 3933] [php:error] [pid 54321] PHP Parse error: syntax error, unexpected '}' in /var/www/html/admin.php on line 100
+[Thu Mar 26 09:51:47.000 2026] [warn] [pid 26247] [core:warn] [pid 1234] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- system crash or shutdown detected?
