@@ -4,17 +4,12 @@ import pyzipper
 import base64
 from scapy.all import rdpcap, DNS, UDP
 
-
-encoded_data = "SGVsbG8gV29ybGQh"
-
+#encoded_data = "SGVsbG8gV29ybGQh"
 # 1. Decode Base64 to bytes
-decoded_bytes = base64.b64decode(encoded_data)
-
+#decoded_bytes = base64.b64decode(encoded_data)
 # 2. Convert bytes back to a readable string (UTF-8)
-decoded_string = decoded_bytes.decode('utf-8')
-
-
-
+#decoded_string = decoded_bytes.decode('utf-8')
+#print(decoded_string)
 
 packets = rdpcap("Krasnodar.pcap")
 segments = []

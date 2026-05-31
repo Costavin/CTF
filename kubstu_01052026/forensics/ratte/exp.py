@@ -31,6 +31,7 @@ print(magic, xor_key, encrypted, len(encrypted))
 
 #0t,1t,2@,3f,4f,5t,6t,7@,8f,9f 
 plaintext = bytes([a ^ int.from_bytes(xor_key) for a in encrypted])
+print(plaintext)
 offset = 0
 flag = b""
 for b in plaintext:
