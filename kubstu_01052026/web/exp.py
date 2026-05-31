@@ -6,18 +6,18 @@ s.cookies['session'] = "eyJ1c2VyX2lkIjoxMDIsInVzZXJuYW1lIjoiYSJ9.afRjHw.UUmdfruf
 s.cookies['web_session'] = "ab59b291cc3af8ac"
 
 def get_likes():
-    return s.get('http://155.212.185.30/api/likes')
+    return s.get('http://155.XXX.XXX.XXX/api/likes')
 
 def get_time():
-    return s.get('http://155.212.185.30/api/timer')
+    return s.get('http://155.XXX.XXX.XXX/api/timer')
 
 def set_val(n):
     payload = {"bet":n}
-    return s.post("http://155.212.185.30/api/bet", json=payload)
+    return s.post("http://155.XXX.XXX.XXX/api/bet", json=payload)
 
 
 
-print(get_likes().status_code)  # 200 means success
+print(get_likes().status_code)
 print(get_likes().json())
 print(get_time().json())
 
@@ -29,8 +29,7 @@ while (get_time().json()['remaining'] > 10.0):
     print(get_likes().json()['count'])
 
 while (get_time().json()['remaining'] < 10.0):
-    val = get_likes().json()['count']
-    print(set_val(val).json())
+    #follow the obvious actions by means of get_likes() and set_val()
 
 
 
